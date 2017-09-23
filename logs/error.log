@@ -1,0 +1,75 @@
+2017/09/15 13:43:19 [I] [log.go:610] server NewServer Server running 0 netProto tcp address 127.0.0.1:19926
+2017/09/15 13:43:45 [E] [log.go:585] read tcp 127.0.0.1:19926->127.0.0.1:7806: wsarecv: An existing connection was forcibly closed by the remote host.
+2017/09/15 13:43:49 [E] [log.go:585] read tcp 127.0.0.1:19926->127.0.0.1:7808: wsarecv: An existing connection was forcibly closed by the remote host.
+2017/09/15 13:43:50 [E] [log.go:585] read tcp 127.0.0.1:19926->127.0.0.1:7809: wsarecv: An existing connection was forcibly closed by the remote host.
+2017/09/15 13:44:13 [E] [log.go:585] read tcp 127.0.0.1:19926->127.0.0.1:7814: wsarecv: An existing connection was forcibly closed by the remote host.
+2017/09/15 13:44:16 [E] [log.go:585] read tcp 127.0.0.1:19926->127.0.0.1:7815: wsarecv: An existing connection was forcibly closed by the remote host.
+2017/09/15 13:45:25 [E] [log.go:585] read tcp 127.0.0.1:19926->127.0.0.1:7827: wsarecv: An existing connection was forcibly closed by the remote host.
+2017/09/15 13:45:28 [E] [log.go:585] read tcp 127.0.0.1:19926->127.0.0.1:7829: wsarecv: An existing connection was forcibly closed by the remote host.
+2017/09/15 13:45:29 [E] [log.go:585] read tcp 127.0.0.1:19926->127.0.0.1:7831: wsarecv: An existing connection was forcibly closed by the remote host.
+2017/09/15 13:47:53 [I] [log.go:610] main main Got signal 0 signal interrupt
+2017/09/15 13:47:53 [E] [log.go:585] server run accept tcp 127.0.0.1:19926: use of closed network connection 0
+2017/09/15 13:47:58 [I] [log.go:610] server NewServer Server running 0 netProto tcp address 127.0.0.1:19926
+2017/09/15 13:51:13 [E] [log.go:585] read tcp 127.0.0.1:19926->127.0.0.1:7912: wsarecv: An existing connection was forcibly closed by the remote host.
+2017/09/15 13:53:23 [E] [log.go:585] read tcp 127.0.0.1:19926->127.0.0.1:7973: wsarecv: An existing connection was forcibly closed by the remote host.
+2017/09/15 13:53:24 [E] [log.go:585] read tcp 127.0.0.1:19926->127.0.0.1:7976: wsarecv: An existing connection was forcibly closed by the remote host.
+2017/09/15 13:53:27 [I] [log.go:610] main main Got signal 0 signal interrupt
+2017/09/15 13:53:27 [E] [log.go:585] server run accept tcp 127.0.0.1:19926: use of closed network connection 0
+2017/09/15 13:53:28 [I] [log.go:610] server NewServer Server running 0 netProto tcp address 127.0.0.1:19926
+2017/09/15 13:53:30 [E] [log.go:585] read tcp 127.0.0.1:19926->127.0.0.1:7981: wsarecv: An existing connection was forcibly closed by the remote host.
+2017/09/15 13:53:32 [E] [log.go:585] read tcp 127.0.0.1:19926->127.0.0.1:7983: wsarecv: An existing connection was forcibly closed by the remote host.
+2017/09/15 13:53:43 [E] [log.go:585] read tcp 127.0.0.1:19926->127.0.0.1:7987: wsarecv: An existing connection was forcibly closed by the remote host.
+2017/09/15 13:54:13 [E] [log.go:585] read tcp 127.0.0.1:19926->127.0.0.1:7995: wsarecv: An existing connection was forcibly closed by the remote host.
+2017/09/15 13:54:30 [E] [log.go:585] read tcp 127.0.0.1:19926->127.0.0.1:8003: wsarecv: An existing connection was forcibly closed by the remote host.
+2017/09/15 13:57:00 [E] [log.go:585] read tcp 127.0.0.1:19926->127.0.0.1:8027: wsarecv: An existing connection was forcibly closed by the remote host.
+2017/09/15 13:58:06 [E] [log.go:585] read tcp 127.0.0.1:19926->127.0.0.1:8040: wsarecv: An existing connection was forcibly closed by the remote host.
+2017/09/15 13:58:18 [E] [log.go:585] read tcp 127.0.0.1:19926->127.0.0.1:8048: wsarecv: An existing connection was forcibly closed by the remote host.
+2017/09/15 13:58:20 [E] [log.go:585] read tcp 127.0.0.1:19926->127.0.0.1:8049: wsarecv: An existing connection was forcibly closed by the remote host.
+2017/09/15 13:59:22 [E] [log.go:585] dial tcp 127.0.0.1:11111: connectex: No connection could be made because the target machine actively refused it.
+2017/09/15 14:00:02 [E] [log.go:585] dial tcp 127.0.0.1:11111: connectex: No connection could be made because the target machine actively refused it.
+2017/09/15 14:01:54 [E] [log.go:585] dial tcp 127.0.0.1:11111: connectex: No connection could be made because the target machine actively refused it.
+2017/09/15 14:02:27 [E] [log.go:585] dial tcp 127.0.0.1:11111: connectex: No connection could be made because the target machine actively refused it.
+2017/09/15 14:04:18 [E] [log.go:585] dial tcp 127.0.0.1:443: connectex: No connection could be made because the target machine actively refused it.
+2017/09/15 14:17:05 [I] [log.go:610] main main Got signal 0 signal interrupt
+2017/09/15 14:17:05 [E] [log.go:585] server run accept tcp 127.0.0.1:19926: use of closed network connection 0
+2017/09/15 17:28:44 [I] [log.go:610] server NewServer Server running 0 netProto tcp address 127.0.0.1:19926
+2017/09/15 17:49:58 [I] [log.go:610] main main Got signal 0 signal interrupt
+2017/09/15 17:49:58 [E] [log.go:585] server run accept tcp 127.0.0.1:19926: use of closed network connection 0
+2017/09/15 17:50:00 [I] [log.go:610] server NewServer Server running 0 netProto tcp address 127.0.0.1:19926
+2017/09/15 17:50:07 [I] [log.go:610] main main Got signal 0 signal interrupt
+2017/09/15 17:50:07 [E] [log.go:585] server run accept tcp 127.0.0.1:19926: use of closed network connection 0
+2017/09/15 17:50:52 [I] [log.go:610] server NewServer Server running 0 netProto tcp address 0.0.0.0:19999
+2017/09/15 17:51:16 [I] [log.go:610] main main Got signal 0 signal interrupt
+2017/09/15 17:51:16 [E] [log.go:585] server run accept tcp [::]:19999: use of closed network connection 0
+2017/09/18 10:10:51 [I] [log.go:610] server NewServer Server running 0 netProto tcp address 127.0.0.1:19926
+2017/09/18 11:50:28 [I] [log.go:610] server NewServer Server running 0 netProto tcp address 127.0.0.1:19926
+2017/09/18 12:37:51 [I] [log.go:610] main main Got signal 0 signal interrupt
+2017/09/18 12:37:51 [E] [log.go:585] server run accept tcp 127.0.0.1:19926: use of closed network connection 0
+2017/09/18 12:40:02 [I] [log.go:610] server NewServer Server running 0 netProto tcp address 127.0.0.1:19926
+2017/09/18 12:41:37 [I] [log.go:610] main main Got signal 0 signal interrupt
+2017/09/18 12:41:37 [E] [log.go:585] server run accept tcp 127.0.0.1:19926: use of closed network connection 0
+2017/09/18 15:10:06 [I] [log.go:610] server NewServer Server running 0 netProto tcp address 127.0.0.1:19926
+2017/09/18 15:23:35 [I] [log.go:610] main main Got signal 0 signal interrupt
+2017/09/18 15:23:35 [E] [log.go:585] server run accept tcp 127.0.0.1:19926: use of closed network connection 0
+2017/09/18 18:48:27 [I] [log.go:610] server NewServer Server running 0 netProto tcp address 127.0.0.1:19926
+2017/09/18 18:49:09 [I] [log.go:610] main main Got signal 0 signal interrupt
+2017/09/18 18:49:09 [E] [log.go:585] server run accept tcp 127.0.0.1:19926: use of closed network connection 0
+2017/09/18 18:49:12 [I] [log.go:610] server NewServer Server running 0 netProto tcp address 127.0.0.1:49096
+2017/09/18 19:01:57 [I] [log.go:610] server NewServer Server running 0 netProto tcp address 127.0.0.1:49097
+2017/09/18 20:09:11 [I] [log.go:610] main main Got signal 0 signal interrupt
+2017/09/18 20:09:11 [E] [log.go:585] server run accept tcp 127.0.0.1:49096: use of closed network connection 0
+2017/09/18 20:09:13 [I] [log.go:610] main main Got signal 0 signal interrupt
+2017/09/18 20:09:13 [E] [log.go:585] server run accept tcp 127.0.0.1:49097: use of closed network connection 0
+2017/09/18 20:18:28 [I] [log.go:610] server NewServer Server running 0 netProto tcp address 127.0.0.1:49096
+2017/09/18 20:18:56 [I] [log.go:610] server NewServer Server running 0 netProto tcp address 127.0.0.1:49097
+2017/09/18 21:27:51 [I] [log.go:610] main main Got signal 0 signal interrupt
+2017/09/18 21:27:51 [E] [log.go:585] server run accept tcp 127.0.0.1:49097: use of closed network connection 0
+2017/09/18 21:27:54 [I] [log.go:610] main main Got signal 0 signal interrupt
+2017/09/18 21:27:54 [E] [log.go:585] server run accept tcp 127.0.0.1:49096: use of closed network connection 0
+2017/09/18 22:20:58 [I] [log.go:610] server NewServer Server running 0 netProto tcp address 127.0.0.1:49096
+2017/09/18 22:22:16 [I] [log.go:610] server NewServer Server running 0 netProto tcp address 127.0.0.1:49097
+2017/09/18 23:36:48 [E] [log.go:585] dial tcp 127.0.0.1:49990: connectex: No connection could be made because the target machine actively refused it.
+2017/09/18 23:47:59 [I] [log.go:610] main main Got signal 0 signal interrupt
+2017/09/18 23:47:59 [E] [log.go:585] server run accept tcp 127.0.0.1:49097: use of closed network connection 0
+2017/09/18 23:48:02 [I] [log.go:610] main main Got signal 0 signal interrupt
+2017/09/18 23:48:02 [E] [log.go:585] server run accept tcp 127.0.0.1:49096: use of closed network connection 0

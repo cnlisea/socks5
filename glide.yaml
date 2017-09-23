@@ -1,0 +1,6 @@
+package: ltproxy
+import:
+- package: github.com/astaxie/beego
+  version: ~1.9.0
+  subpackages:
+  - logs
